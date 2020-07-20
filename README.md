@@ -13,7 +13,7 @@ Commits N Crosses
 
 -------------
 
- Player X: [name]
+ Player X: Lee
  
  Player O: [name]
 
